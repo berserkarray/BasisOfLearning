@@ -34,6 +34,10 @@ conda install matplotlib
 ```
 conda install tensorflow
 ```
+### requests
+```
+conda install requests
+```
 - Use the command `conda list` to confirm if all these libraries are installed
 ## Register the kernel
 - Jupyter notebook won't detect our new environment directly
