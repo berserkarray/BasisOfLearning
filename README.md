@@ -9,6 +9,9 @@ In this project, we shall explore deep learning, FNN, PCA, GD, CNN, RNN, encoder
 # Week 1 - Setup
 The goal for this week is to learn the basics of Python, Numpy, Pandas and Matplotlib and come up with guides to explain the same. 
 
+# Week 2 - Some literature Review
+After a discussion on Exploratory Data Analysis, and on how datasets are prepared for use in neural nets, literature reviews were conducted on the Stochastic Gradient Descent and Biases and Weights.
+A simple implementation of a perceptron was made in Python which took in three inputs.
 
 ***
 This project was offered by the Brain and Cognitive Society of IIT Kanpur over the summer of 2022.
