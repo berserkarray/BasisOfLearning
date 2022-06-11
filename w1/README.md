@@ -1,6 +1,6 @@
 Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
 
-Anaconda installation in Windows:
+**Anaconda installation in Windows:**
 1. Visit https://www.anaconda.com/products/distribution.
 2. Download the Installer.
 3. Once the download is complete, run the installer.
@@ -15,7 +15,7 @@ Anaconda installation in Windows:
 13. Launch Anaconda Navigator.
 
 
-Installing Dependencies:
+**Installing Dependencies:**
 1. Open Anaconda Navigator.
 2. Launch CMD.exe prompt.
 3. To install Matplotlib, in the cmd window type conda install matplotlib.
