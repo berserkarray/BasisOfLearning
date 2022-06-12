@@ -8,3 +8,10 @@ Week1 : Anaconda installation, Introduction to Jupyter Notebooks, Numpy, Pandas 
 
 
 Note : Content for the other weeks will be added as the project progresses.
+
+Team Members:
+
+1. Kumar Kanishk Singh
+2. Aditya Yadav
+3. Priyanshu Meena
+4. Vibhansh Bhatia
