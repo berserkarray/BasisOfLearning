@@ -13,5 +13,8 @@ The goal for this week is to learn the basics of Python, Numpy, Pandas and Matpl
 After a discussion on Exploratory Data Analysis, and on how datasets are prepared for use in neural nets, literature reviews were conducted on the Stochastic Gradient Descent and Biases and Weights.
 A simple implementation of a perceptron was made in Python which took in three inputs.
 
+# Week 3 - Building a Neural Net
+A more involved discussion on how a neural network works - Perceptrons and Hidden Layers, Loss Functions, Gradient Descents. The task for this week was to build a single layer neural network.
+
 ***
 This project was offered by the Brain and Cognitive Society of IIT Kanpur over the summer of 2022.
